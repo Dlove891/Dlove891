@@ -33,5 +33,5 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Dlove891&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Dlove891&starting_year=2025&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
