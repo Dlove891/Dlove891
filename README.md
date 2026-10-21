@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dlove891.github.io/portfolio-website/">Portfolio</a> · <a href="mailto:djlove@berkeley.edu">Email</a>
+  <a href="https://www.linkedin.com/in/dylan-love-cal2025/">LinkedIn</a> · <a href="mailto:djlove@berkeley.edu">Email</a>
 </p>
 
 ---
