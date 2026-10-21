@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Dylan 👋</h1>
+<h1 align="center">Hi, I'm Dylan</h1>
 <p align="center">
-  Data Science & Cognitive Science @ UC Berkeley alum · building LLM-powered backends, ML pipelines, and data tooling
+  AI Engineer @ Redrob · building LLM-powered backends, ML pipelines, and data tooling
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Redrob** · Dec 2025 – Sep 2026
 - Built LLM routing, evaluation and inference services (AWS Bedrock, SageMaker, vLLM, Anthropic SDK) in a NestJS microservice platform
@@ -17,7 +17,7 @@
 - Built Python data pipelines for LLM fine-tuning datasets and model evaluation (LangChain, DeepEval, BERTScore/ROUGE)
 - **918 commits · ~190k lines added across 12 private repos** (≈89% TypeScript) — not reflected in the public stats below
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,r,html,css,astro&perline=8" alt="Languages" />
@@ -30,7 +30,7 @@
 - **Frontend:** Next.js, React, Tailwind, Zustand
 - **Data:** pandas, NumPy, Jupyter, remote-sensing & geospatial data processing
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Dlove891&theme=transparent&hide_border=true" alt="GitHub streak" />
